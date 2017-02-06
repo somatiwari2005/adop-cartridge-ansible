@@ -1,0 +1,1 @@
+https://github.com/anton-kasperovich/adop-cartridge-ansible-reference-role.git
