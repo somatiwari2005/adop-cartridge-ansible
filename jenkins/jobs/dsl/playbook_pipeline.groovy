@@ -1,8 +1,8 @@
 import base.AnsibleCartridge
 
 // Folders
-def workspaceFolderName = "${WORKSPACE_NAME}"
-def projectFolderName = "${PROJECT_NAME}"
+def workspaceFolderName = "${WORKSPACE}"
+def projectFolderName = "${PROJECT}"
 
 // Variables
 def variables = [
