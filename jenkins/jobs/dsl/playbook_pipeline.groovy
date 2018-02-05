@@ -2,7 +2,7 @@ import base.AnsibleCartridge
 
 // Folders
 def workspaceFolderName = "${WORKSPACE}"
-def projectFolderName = "${PROJECT}"
+def projectFolderName = "/playbook_pipeline"
 
 // Variables
 def variables = [
